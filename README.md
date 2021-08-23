@@ -63,17 +63,10 @@
 
 **Portfolio:**  
 
-<p align="left">	
-  <a href="https://digitixers.baxkit.com/"><img width="30%"  title="Digitizing Website + ERP System" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a>
-  
-  <a href="https://subset.silver-ox.com/"> <img  width="30%"  title="Co-Working Website + Mobile Api" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/subset.JPG"></a>
-  
-  <a href="https://check.silver-ox.com/"> <img width="30%" title="Ecommerce Website" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/retro.JPG"></a>
-  
-  <a href="http://venuec.citizenexpress.pk/"> <img height="100" title="Venuuec Website + Mobile Api" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/venuce.JPG"></a>
-  <a href="http://docter.beautipe.com/"> <img  width="30%"  title="Doctor Website " src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/doctor.JPG"></a>
-  
-</p>
+
+<code><a href="https://digitixers.baxkit.com/"> <img height="100" width="180"  title="Digitizing Website + ERP System" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a></code>   <code><a href="https://subset.silver-ox.com/"> <img height="100" width="180"  title="Co-Working Website + Mobile Api" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/subset.JPG"></a></code>   <code><a href="https://check.silver-ox.com/"> <img height="100" title="Ecommerce Website" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/retro.JPG"></a></code>   <code><a href="http://venuec.citizenexpress.pk/"> <img height="100" title="Venuuec Website + Mobile Api" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/venuce.JPG"></a></code>  
+
+<code><a href="http://docter.beautipe.com/"> <img height="100" width="180"  title="Doctor Website " src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/doctor.JPG"></a></code>
 
 
 
