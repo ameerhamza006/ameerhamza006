@@ -1,4 +1,4 @@
-## Hi, I'm Ameer Hamza! 👋
+## Hi, I'm Ameer Hamza! <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 <a href="https://twitter.com/ameerhamza006">
   <img align="left" alt="Ameeer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -50,14 +50,10 @@
 
 **Portfolio:**  
 
-![](https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png)
-![](https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/subset.JPG)
 
-<div style="width: 100% ;">
-<code><a href="https://digitixers.baxkit.com/"> <img height="120" title="Digitizing Website + ERP System" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a></code>
+<code><a href="https://digitixers.baxkit.com/"> <img height="120" width="100" title="Digitizing Website + ERP System" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a></code>
 
-<code><a href="https://subset.silver-ox.com/"> <img height="100" title="Co-Working Website + Mobile Api" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/subset.JPG"></a></code>
-  <div>
+<code><a href="https://subset.silver-ox.com/"> <img height="100" width="100" title="Co-Working Website + Mobile Api" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/subset.JPG"></a></code>
 
 <code><a href="https://check.silver-ox.com/"> <img height="100" title="Ecommerce Website" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/retro.JPG"></a></code>
 
