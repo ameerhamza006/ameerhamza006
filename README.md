@@ -50,7 +50,7 @@
 
 **Portfolio:**  
 
-<code><a href="#"> <img height="50" title="Html 5" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a></code>
+<code><a href="https://digitixers.baxkit.com/"> <img height="100" title="Html 5" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a></code>
 
 
 <center>
