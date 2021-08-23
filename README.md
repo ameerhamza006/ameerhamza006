@@ -27,8 +27,10 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I game on my Laptop🙃.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameerhamza006&label=Profile%20views&color=0e75b6&style=flat" alt="Ameer" /> </p>
-
+![](https://komarev.com/ghpvc/?username=ameerhamza&color=blueviolet&label=Profile+Views)
+[![Twitter: ameerhamza006](https://img.shields.io/twitter/follow/ameerhamza006?style=social)](https://twitter.com/ameerhamza006)
+[![Linkedin: ameerhamza006](https://img.shields.io/badge/-ameerhamza006-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameerhamza006/)](https://www.linkedin.com/in/ameerhamza006/)
+[![GitHub: ameerhamza006](https://img.shields.io/github/followers/ameerhamza006?label=follow&style=social)](https://github.com/ameerhamza006)
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Languages and Tools:</h3>
