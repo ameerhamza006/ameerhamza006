@@ -27,6 +27,8 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I game on my Laptop🙃.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameerhamza006&label=Profile%20views&color=0e75b6&style=flat" alt="Ameer" /> </p>
+
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Languages and Tools:</h3>
