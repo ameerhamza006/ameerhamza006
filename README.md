@@ -28,9 +28,9 @@
 - ⚡ Fun fact: I game on my Laptop🙃.
 
 ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
-[![Twitter: rashidwassaan](https://img.shields.io/twitter/follow/rashidwassaan?style=social)](https://twitter.com/ameerhamza006)
-[![Linkedin: rashidwassan](https://img.shields.io/badge/-rashidwassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameerhamza006/)](https://www.linkedin.com/in/ameerhamza006/)
-[![GitHub: rashidwassan](https://img.shields.io/github/followers/rashidwassan?label=follow&style=social)](https://github.com/ameerhamza006)
+[![Twitter: ameerhamza006](https://img.shields.io/twitter/follow/rashidwassaan?style=social)](https://twitter.com/ameerhamza006)
+[![Linkedin: ameerhamza006](https://img.shields.io/badge/-rashidwassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameerhamza006/)](https://www.linkedin.com/in/ameerhamza006/)
+[![GitHub: ameerhamza006](https://img.shields.io/github/followers/rashidwassan?label=follow&style=social)](https://github.com/ameerhamza006)
 
 
 **Languages and Tools:**  
