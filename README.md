@@ -37,17 +37,21 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/laravel/laravel-plain-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.png"></code> 
+<code><img height="20" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/photoshop/photoshop-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-plain-wordmark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.png"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jquery/jquery-original-wordmark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.png"></code>
 
 <hr>
 <center>
-<a href="https://github.com/rashidwassan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=dark&line_height=40" alt="Rashid's github stats"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidwassan&langs_count=5&theme=dark" alt="Rashid's github stats"/>
-</a>
 <hr>
 
 <div align="center">
