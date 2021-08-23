@@ -58,7 +58,7 @@
 
 <code><a href="http://venuec.citizenexpress.pk/"> <img height="100" title="Venuuec Website + Mobile Api" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/venuce.JPG"></a></code>
 
-<code><a href="http://docter.beautipe.com/"> <img height="120" title="Doctor Website " src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/doctor.JPG"></a></code>
+<code><a href="http://docter.beautipe.com/"> <img height="140" title="Doctor Website " src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/doctor.JPG"></a></code>
 
 
 <center>
