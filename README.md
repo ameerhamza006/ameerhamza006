@@ -63,7 +63,7 @@
 
 **Portfolio:**  
 
-<p align="center">	
+<p align="left">	
   <a href="https://digitixers.baxkit.com/"><img width="30%"  title="Digitizing Website + ERP System" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a>
   
   <a href="https://subset.silver-ox.com/"> <img  width="30%"  title="Co-Working Website + Mobile Api" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/subset.JPG"></a>
