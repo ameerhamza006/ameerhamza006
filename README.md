@@ -53,7 +53,11 @@
 <hr>
 
 
-[![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerhamza006&show_icons=true&theme=radical)](https://github.com/ameerhamza006)   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameerhamza006&show_icons=true&theme=radical&locale=en&layout=compact" />
+<p align="center">	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ameerhamza006&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameerhamza006&show_icons=true&theme=radical&locale=en&layout=compact" />
+</p>
+
 
 
 
