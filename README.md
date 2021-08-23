@@ -50,7 +50,7 @@
 
 **Portfolio:**  
 
-<code><a href="https://digitixers.baxkit.com/"> <img height="100" title="Digitizing Website + ERP System" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a></code>
+<code><a href="https://digitixers.baxkit.com/"> <img height="120" title="Digitizing Website + ERP System" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a></code>
 
 <code><a href="https://subset.silver-ox.com/"> <img height="100" title="Co-Working Website + Mobile Api" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/subset.JPG"></a></code>
 
