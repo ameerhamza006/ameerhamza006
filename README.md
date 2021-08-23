@@ -28,7 +28,7 @@
 - ⚡ Fun fact: I game on my Laptop🙃.
 
 ![](https://komarev.com/ghpvc/?username=ameerhamza&color=blueviolet&label=Profile+Views)
-[![Instgram: aameer_hamzza](https://img.shields.io/instagram/follow/aameer_hamzza?style=social)](https://instagram.com/aameer_hamzza/)
+[![Twitter: ameerhamza006](https://img.shields.io/twitter/follow/ameerhamza006?style=social)](https://twitter.com/ameerhamza006)
 [![Linkedin: ameerhamza006](https://img.shields.io/badge/-ameerhamza006-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameerhamza006/)](https://www.linkedin.com/in/ameerhamza006/)
 [![GitHub: ameerhamza006](https://img.shields.io/github/followers/ameerhamza006?label=follow&style=social)](https://github.com/ameerhamza006)
 
