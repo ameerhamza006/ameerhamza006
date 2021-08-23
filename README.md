@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on Php/Laravel & Flutter.
 - 🌱 I’m currently learning more about Flutter.
 - 💬 Ask me about Php/Laravel or any tech related stuff.
-- 📫 How to reach me: [Instagram - @ameerhamza006](https://instagram.com/aameer_hamzza/).
+- 📫 How to reach me: [Instagram - @aameer_hamzza](https://instagram.com/aameer_hamzza/).
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I game on my Laptop🙃.
 
