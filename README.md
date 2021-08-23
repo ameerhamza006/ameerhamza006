@@ -46,6 +46,12 @@
 <code><img height="20" title="CSS 3" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/css/css.png"></code>
 <code><img height="20" title="Html 5" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.png"></code>
 
+<hr>
+
+**Portfolio:**  
+
+<code><a href="#"> <img height="50" title="Html 5" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a></code>
+
 
 <center>
 <hr>
