@@ -69,11 +69,5 @@
 <code><a href="http://docter.beautipe.com/"> <img height="100" width="180"  title="Doctor Website " src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/doctor.JPG"></a></code>
 
 
-<center>
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
