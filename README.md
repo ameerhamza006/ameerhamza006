@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Php/Laravel & Flutter.
+- 🔭 I’m currently working on PHP/Laravel & Flutter.
 - 🌱 I’m currently learning more about Flutter.
 - 💬 Ask me about Php/Laravel or any tech related stuff.
 - 📫 How to reach me: [Instagram - @aameer_hamzza](https://instagram.com/aameer_hamzza/).
