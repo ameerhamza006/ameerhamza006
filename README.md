@@ -49,6 +49,10 @@
 <hr>
 
 **Portfolio:**  
+
+![](https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png)
+![](https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/subset.JPG)
+
 <div style="width: 100% ;">
 <code><a href="https://digitixers.baxkit.com/"> <img height="120" title="Digitizing Website + ERP System" src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/digi.png"></a></code>
 
