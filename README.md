@@ -35,20 +35,20 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/laravel/laravel-plain-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.png"></code> 
-<code><img height="20" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/photoshop/photoshop-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-plain-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jquery/jquery-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.png"></code>
+<code><img height="20" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" title="Laravel 8" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/laravel/laravel-plain-wordmark.svg"></code>
+<code><img height="20" title="PHP" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.png"></code> 
+<code><img height="20" title="MySQL" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png"></code>
+<code><img height="20" title="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/photoshop/photoshop-plain.svg"></code>
+<code><img height="20" title="Asp.Net/MVC" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-plain-wordmark.svg"></code>
+<code><img height="20" title="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.png"></code>
+<code><img height="20" title="MSSQL" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png"></code>
+<code><img height="20" title="Jquery" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jquery/jquery-original-wordmark.svg"></code>
+<code><img height="20" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="20" title="Bootstrap 4" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="20" title="CSS 3" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/css/css.png"></code>
+<code><img height="20" title="Html 5" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.png"></code>
 
 <hr>
 <center>
