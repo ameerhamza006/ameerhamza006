@@ -27,10 +27,6 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I game on my Laptop🙃.
 
-![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
-[![Twitter: ameerhamza006](https://img.shields.io/twitter/follow/rashidwassaan?style=social)](https://twitter.com/ameerhamza006)
-[![Linkedin: ameerhamza006](https://img.shields.io/badge/-rashidwassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameerhamza006/)](https://www.linkedin.com/in/ameerhamza006/)
-[![GitHub: ameerhamza006](https://img.shields.io/github/followers/rashidwassan?label=follow&style=social)](https://github.com/ameerhamza006)
 
 
 **Languages and Tools:**  
@@ -50,7 +46,7 @@
 <code><img height="20" title="CSS 3" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/css/css.png"></code>
 <code><img height="20" title="Html 5" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.png"></code>
 
-<hr>
+
 <center>
 <hr>
 
