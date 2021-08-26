@@ -68,6 +68,8 @@
 
 <code><a href="http://docter.beautipe.com/"> <img height="100" width="180"  title="Doctor Website " src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/doctor.JPG"></a></code>
 
+<code><a href="https://www.strategicvision.com.pk/"> <img height="100" width="180"  title="Development Website " src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/strategic.JPG"></a></code>
+
 
 
 
