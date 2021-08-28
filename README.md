@@ -10,7 +10,7 @@
   <img align="left" alt="Ameeer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://instagram.com/aameer_hamzza/">
+<a href="https://instagram.com/ameer.hamza006/">
   <img align="left" alt="Ameeer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ameerhamza006/">
@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on PHP/Laravel & Flutter.
 - 🌱 I’m currently learning more about Flutter.
 - 💬 Ask me about Php/Laravel or any tech related stuff.
-- 📫 How to reach me: [Instagram - @aameer_hamzza](https://instagram.com/aameer_hamzza/).
+- 📫 How to reach me: [Instagram - @ameer.hamza006](https://instagram.com/ameer.hamza006/).
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I game on my Laptop🙃.
 
